@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Lobster&display=swap');
+
+
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+    background:url("images/bg.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    
+}
+
+.home .content{
+    text-align: center;
+    padding:1rem;
+}
+
+.home .content h3 {
+    font-size: 6rem;
+    color:blanchedalmond;
+    font-family: Lobster;
+}
+
+.home .content h3 span{
+    color:red;
+}
+h5{
+    font-family: Lobster;
+    color: red;
+    font-size: larger;
+    border: red;
+}
+
+.home .content p{
+    font-size: 2rem;
+    color:#fff;
+    width: 68rem;
+    padding:1rem 0;
+    font-family: Dancing Script;
+}
+
+.home .shape{
+    position: absolute;
+    bottom:-.5rem; left: 0;
+    height: 13rem;
+    background:url(../images/shape-bottom.png);
+    background-size: 350rem 13rem;
+    width: 100%;
+    animation: animate 25s linear infinite;
+}
+
+
+.credit{
+    font-size: larger;
+    padding-bottom: 20px;
+}
+
+/*--------Body---------------------*/
+#title{
+    text-align: center;
+    color: red;
+    background-color: #fff9db;
+}
+#finalsubmit{
+    text-align: center;
+    
+}
+a:hover{
+    font-size: larger;
+}
+
+
+/*--------End of Body---------------------*/
+
+/*--------Footer---------------------*/
+footer {
+    background: black;
+    color:#fff;
+    text-align: center;
+    font-size: smaller;
+}
+/*--------End of Footer---------------------*/
