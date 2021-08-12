@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Lobster&display=swap');
+
+/*
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+    background:url("online-exam.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    
+}
+
+.home .content{
+    text-align: center;
+    padding:1rem;
+    font-family: Lobster;
+}
+
+h3 {
+    font-size: 6rem;
+    color:blue;
+    
+}
+
+.home .content h3 span{
+    color:red;
+}
+
+
+
+
+.home{
+    position: absolute;
+    bottom:-.5rem; left: 0;
+    height: 13rem;
+
+    background-size: 350rem 13rem;
+    width: 100%;
+}
+
+
+.credit{
+    font-size: larger;
+    padding-bottom: 20px;
+}
+
+/*--------Body---------------------*/
+/*#title{
+    text-align: center;
+    color: red;
+    background-color: #fff9db;
+}
+#finalsubmit{
+    text-align: center;
+    
+}
+a:hover{
+    font-size: larger;
+}
+*/
+.home{
+    background:url("online-exam.jpg") no-repeat;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+    background-size: cover;
+    background-position: center;
+    position: relative fixed;
+    
+}
+.content{
+    background-color: black;
+    color:#fff;
+    padding:1rem;
+    font-family: Lobster;
+    font-size: xx-large;
+}
+
+h2{
+    color: blue;
+}
+a{
+    color: blanchedalmond;
+}
+/*--------End of Body---------------------*/
+
+/*--------Footer---------------------*/
+footer {
+    background: black;
+    color:#fff;
+    text-align: center;
+    font-size: smaller;
+    padding-bottom: 20px;
+}
+/*--------End of Footer---------------------*/

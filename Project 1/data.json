@@ -1,0 +1,114 @@
+{
+    "questions" : [
+        {
+            "no": 1,
+            "question": "The correct sequence of HTML tags for starting a webpage is-",
+            "answer": "HTML, Head, Title, Body",
+            "options": [
+                "Head, Title, HTML, body",
+                "HTML, Body, Title, Head",
+                "HTML, Head, Title, Body",
+                "HTML, Head, Title, Body"
+            ]
+        },
+        {
+            "no": 2,
+            "question": "What does CSS stand for?",
+            "answer": "Cascading Style Sheet",
+            "options": [
+                "Common Style Sheet",
+                "Colorful Style Sheet", 
+                "Computer Style Sheet",
+                "Cascading Style Sheet"
+            ]
+        },
+        {
+            "no": 3,
+            "question": "Which of the following tag is used for inserting the largest heading in HTML?",
+            "answer": "<h1>",
+            "options": [
+                "<h6>",
+                "<h3>", 
+                "<h1>",
+                "<h5>"
+            ]
+        },
+        {
+            "no": 4,
+            "question": "Which of the following tag is used to insert a line-break in HTML?",
+            "answer": "<br>",
+            "options": [
+                "<br>",
+                "<a>", 
+                "<b>",
+                "<i>"
+            ]
+        },
+        {
+            "no": 5,
+            "question": "How to create an unordered list in HTML?",
+            "answer": "<ul>",
+            "options": [
+                "<ol>",
+                "<ul>", 
+                "<pl>",
+                "<li>"
+            ]
+        },
+        {
+            "no": 6,
+            "question": "What does HTML stand for?",
+            "answer": "Hyper Text Markup Language",
+            "options": [
+                "Hyper Text Preprocessor",
+                "Hyper Text Markup Language",
+                "Hyper Text Multiple Language",
+                "Hyper Tool Multi Language"
+            ]
+        },
+        {
+            "no": 7,
+            "question": " Which of the following tag is used to make the underlined text?",
+            "answer": "<u>",
+            "options": [
+                "<i>",
+                "<ul>", 
+                "<u>",
+                "<li>"
+            ]
+        },
+        {
+            "no": 8,
+            "question": "Which of the following tag is used to define options in a drop-down selection list?",
+            "answer": "<option>",
+            "options": [
+                "<select>",
+                "<list>", 
+                "<dropdown>",
+                "<option>"
+            ]
+        },
+        {
+            "no": 9,
+            "question": "HTML tags are enclosed in-",
+            "answer": "< and >",
+            "options": [
+                "# and #",
+                "{ and }", 
+                "! and ?",
+                "< and >"
+            ]
+        },
+        {
+            "no": 10,
+            "question": "Which of the following attribute is used to provide a unique name to an element?",
+            "answer": "id",
+            "options": [
+                "class",
+                "id", 
+                "type",
+                "None of the above"
+            ]
+        }    
+    ]
+}
